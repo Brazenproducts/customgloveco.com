@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://customgloveco.com/sitemap.xml
